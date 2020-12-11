@@ -40,6 +40,8 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 
 ## Testing UML
 
+untuk testing disini kami melakukan ping ke its.ac.id
+
 - Surabaya
 
 ![Gambar](https://github.com/riskiferdian/Laporan_Praktikum_Modul_4_A13/blob/main/images/6.png)
