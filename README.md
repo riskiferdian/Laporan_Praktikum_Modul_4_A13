@@ -1,7 +1,8 @@
 # Laporan_Praktikum_Modul_4_A13
 
 ## Kelompok A13
-### 05111840000011 – Bryan Gautama Ngo 05111840000052 – Riski Anang Ferdian
+### 05111840000011 – Bryan Gautama Ngo 
+### 05111840000052 – Riski Anang Ferdian
 
 ## 1.	VLSM (Menggunakan CPT)
 
