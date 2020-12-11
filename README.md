@@ -19,7 +19,9 @@ Berdasarkan total IP dan netmask yang dibutuhkan, maka kita dapat menggunakan ne
 ![Gambar](https://github.com/riskiferdian/Laporan_Praktikum_Modul_4_A13/blob/main/images/3.jpg)
 
 - Melakukan Routing pada router
+
 a. SURABAYA
+
  - MALANG
  - A2
  - A4
@@ -31,24 +33,36 @@ a. SURABAYA
  - A11
  - A12
  - A13
+ 
 b. PROBOLINGGO
+
  - DEFAULT
+ 
 c. PASURUAN
+
  - DEFAULT
  - A4
  - A8
+ 
 d. BATU
+
  - DEFAULT
  - MALANG
  - A9
  - A12
  - A13
+ 
 e. MADIUN
+
  - DEFAULT
+ 
 f. KEDIRI
+
  - DEFAULT
  - A12
+ 
 g. BLITAR
+
  - DEFAULT
 
 ## 2.	CIDR (Menggunakan UML)
